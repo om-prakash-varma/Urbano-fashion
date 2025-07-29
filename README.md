@@ -19,12 +19,19 @@ Designed as part of an internship task, the project features a home page, profil
 
 📂 Folder Structure
 Urbon Fashion/
+
 ├── categories.html
+
 ├── categories_style.css
+
 ├── index.html
+
 ├── index_style.css
+
 ├── profile.html
+
 ├── profile_style.css
+
 ├── urbenfashion.ty
 
 🎨 Features
